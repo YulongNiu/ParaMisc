@@ -1,0 +1,11 @@
+Package: ParaMisc
+Title: R package for parallel programming.
+Description: Useful functions for parallel programmig.
+Version: 0.01
+Author: Yulong Niu <niuylscu@gmail.com>
+Maintainer: Yulong Niu <niuylscu@gmail.com>
+Depends:
+    R (>= 3.2.2)
+ByteCompile: true
+License: GPL
+LazyData: true
