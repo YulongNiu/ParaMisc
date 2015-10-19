@@ -1,7 +1,7 @@
 Package: ParaMisc
-Title: R package for parallel programming.
-Description: Useful functions for parallel programmig.
-Version: 0.01
+Title: R package containing miscellaneous functions for parallel programming
+Description: Useful functions for parallel programming in R.
+Version: 0.0.1
 Author: Yulong Niu <niuylscu@gmail.com>
 Maintainer: Yulong Niu <niuylscu@gmail.com>
 Depends:
